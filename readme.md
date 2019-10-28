@@ -1,4 +1,4 @@
-# Useful Python simple program to manage developer work
+# Useful simple Python scripts to manage developer work.
 
 ---
 
