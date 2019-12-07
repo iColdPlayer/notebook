@@ -5,10 +5,12 @@ import json
 
 
 # this is the csv source file that we want to convert to our json data.
+# do not forget to change this section to your own directory
 csv_sumber = open("/home/icoldplayer/Documents/python/learning/data/districts.csv", 'r')
 
 
 # the destination that we create after we convert the csv file itself.
+# do not forget to change this section to your own directory
 data_json = open("/home/icoldplayer/Documents/python/learning/data/districts.json", 'w')
 
 
