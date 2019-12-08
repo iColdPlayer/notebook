@@ -1,0 +1,514 @@
+{"id_row": "1101", "id": "11", "regencie_name": "KABUPATEN SIMEULUE"}
+{"id_row": "1102", "id": "11", "regencie_name": "KABUPATEN ACEH SINGKIL"}
+{"id_row": "1103", "id": "11", "regencie_name": "KABUPATEN ACEH SELATAN"}
+{"id_row": "1104", "id": "11", "regencie_name": "KABUPATEN ACEH TENGGARA"}
+{"id_row": "1105", "id": "11", "regencie_name": "KABUPATEN ACEH TIMUR"}
+{"id_row": "1106", "id": "11", "regencie_name": "KABUPATEN ACEH TENGAH"}
+{"id_row": "1107", "id": "11", "regencie_name": "KABUPATEN ACEH BARAT"}
+{"id_row": "1108", "id": "11", "regencie_name": "KABUPATEN ACEH BESAR"}
+{"id_row": "1109", "id": "11", "regencie_name": "KABUPATEN PIDIE"}
+{"id_row": "1110", "id": "11", "regencie_name": "KABUPATEN BIREUEN"}
+{"id_row": "1111", "id": "11", "regencie_name": "KABUPATEN ACEH UTARA"}
+{"id_row": "1112", "id": "11", "regencie_name": "KABUPATEN ACEH BARAT DAYA"}
+{"id_row": "1113", "id": "11", "regencie_name": "KABUPATEN GAYO LUES"}
+{"id_row": "1114", "id": "11", "regencie_name": "KABUPATEN ACEH TAMIANG"}
+{"id_row": "1115", "id": "11", "regencie_name": "KABUPATEN NAGAN RAYA"}
+{"id_row": "1116", "id": "11", "regencie_name": "KABUPATEN ACEH JAYA"}
+{"id_row": "1117", "id": "11", "regencie_name": "KABUPATEN BENER MERIAH"}
+{"id_row": "1118", "id": "11", "regencie_name": "KABUPATEN PIDIE JAYA"}
+{"id_row": "1171", "id": "11", "regencie_name": "KOTA BANDA ACEH"}
+{"id_row": "1172", "id": "11", "regencie_name": "KOTA SABANG"}
+{"id_row": "1173", "id": "11", "regencie_name": "KOTA LANGSA"}
+{"id_row": "1174", "id": "11", "regencie_name": "KOTA LHOKSEUMAWE"}
+{"id_row": "1175", "id": "11", "regencie_name": "KOTA SUBULUSSALAM"}
+{"id_row": "1201", "id": "12", "regencie_name": "KABUPATEN NIAS"}
+{"id_row": "1202", "id": "12", "regencie_name": "KABUPATEN MANDAILING NATAL"}
+{"id_row": "1203", "id": "12", "regencie_name": "KABUPATEN TAPANULI SELATAN"}
+{"id_row": "1204", "id": "12", "regencie_name": "KABUPATEN TAPANULI TENGAH"}
+{"id_row": "1205", "id": "12", "regencie_name": "KABUPATEN TAPANULI UTARA"}
+{"id_row": "1206", "id": "12", "regencie_name": "KABUPATEN TOBA SAMOSIR"}
+{"id_row": "1207", "id": "12", "regencie_name": "KABUPATEN LABUHAN BATU"}
+{"id_row": "1208", "id": "12", "regencie_name": "KABUPATEN ASAHAN"}
+{"id_row": "1209", "id": "12", "regencie_name": "KABUPATEN SIMALUNGUN"}
+{"id_row": "1210", "id": "12", "regencie_name": "KABUPATEN DAIRI"}
+{"id_row": "1211", "id": "12", "regencie_name": "KABUPATEN KARO"}
+{"id_row": "1212", "id": "12", "regencie_name": "KABUPATEN DELI SERDANG"}
+{"id_row": "1213", "id": "12", "regencie_name": "KABUPATEN LANGKAT"}
+{"id_row": "1214", "id": "12", "regencie_name": "KABUPATEN NIAS SELATAN"}
+{"id_row": "1215", "id": "12", "regencie_name": "KABUPATEN HUMBANG HASUNDUTAN"}
+{"id_row": "1216", "id": "12", "regencie_name": "KABUPATEN PAKPAK BHARAT"}
+{"id_row": "1217", "id": "12", "regencie_name": "KABUPATEN SAMOSIR"}
+{"id_row": "1218", "id": "12", "regencie_name": "KABUPATEN SERDANG BEDAGAI"}
+{"id_row": "1219", "id": "12", "regencie_name": "KABUPATEN BATU BARA"}
+{"id_row": "1220", "id": "12", "regencie_name": "KABUPATEN PADANG LAWAS UTARA"}
+{"id_row": "1221", "id": "12", "regencie_name": "KABUPATEN PADANG LAWAS"}
+{"id_row": "1222", "id": "12", "regencie_name": "KABUPATEN LABUHAN BATU SELATAN"}
+{"id_row": "1223", "id": "12", "regencie_name": "KABUPATEN LABUHAN BATU UTARA"}
+{"id_row": "1224", "id": "12", "regencie_name": "KABUPATEN NIAS UTARA"}
+{"id_row": "1225", "id": "12", "regencie_name": "KABUPATEN NIAS BARAT"}
+{"id_row": "1271", "id": "12", "regencie_name": "KOTA SIBOLGA"}
+{"id_row": "1272", "id": "12", "regencie_name": "KOTA TANJUNG BALAI"}
+{"id_row": "1273", "id": "12", "regencie_name": "KOTA PEMATANG SIANTAR"}
+{"id_row": "1274", "id": "12", "regencie_name": "KOTA TEBING TINGGI"}
+{"id_row": "1275", "id": "12", "regencie_name": "KOTA MEDAN"}
+{"id_row": "1276", "id": "12", "regencie_name": "KOTA BINJAI"}
+{"id_row": "1277", "id": "12", "regencie_name": "KOTA PADANGSIDIMPUAN"}
+{"id_row": "1278", "id": "12", "regencie_name": "KOTA GUNUNGSITOLI"}
+{"id_row": "1301", "id": "13", "regencie_name": "KABUPATEN KEPULAUAN MENTAWAI"}
+{"id_row": "1302", "id": "13", "regencie_name": "KABUPATEN PESISIR SELATAN"}
+{"id_row": "1303", "id": "13", "regencie_name": "KABUPATEN SOLOK"}
+{"id_row": "1304", "id": "13", "regencie_name": "KABUPATEN SIJUNJUNG"}
+{"id_row": "1305", "id": "13", "regencie_name": "KABUPATEN TANAH DATAR"}
+{"id_row": "1306", "id": "13", "regencie_name": "KABUPATEN PADANG PARIAMAN"}
+{"id_row": "1307", "id": "13", "regencie_name": "KABUPATEN AGAM"}
+{"id_row": "1308", "id": "13", "regencie_name": "KABUPATEN LIMA PULUH KOTA"}
+{"id_row": "1309", "id": "13", "regencie_name": "KABUPATEN PASAMAN"}
+{"id_row": "1310", "id": "13", "regencie_name": "KABUPATEN SOLOK SELATAN"}
+{"id_row": "1311", "id": "13", "regencie_name": "KABUPATEN DHARMASRAYA"}
+{"id_row": "1312", "id": "13", "regencie_name": "KABUPATEN PASAMAN BARAT"}
+{"id_row": "1371", "id": "13", "regencie_name": "KOTA PADANG"}
+{"id_row": "1372", "id": "13", "regencie_name": "KOTA SOLOK"}
+{"id_row": "1373", "id": "13", "regencie_name": "KOTA SAWAH LUNTO"}
+{"id_row": "1374", "id": "13", "regencie_name": "KOTA PADANG PANJANG"}
+{"id_row": "1375", "id": "13", "regencie_name": "KOTA BUKITTINGGI"}
+{"id_row": "1376", "id": "13", "regencie_name": "KOTA PAYAKUMBUH"}
+{"id_row": "1377", "id": "13", "regencie_name": "KOTA PARIAMAN"}
+{"id_row": "1401", "id": "14", "regencie_name": "KABUPATEN KUANTAN SINGINGI"}
+{"id_row": "1402", "id": "14", "regencie_name": "KABUPATEN INDRAGIRI HULU"}
+{"id_row": "1403", "id": "14", "regencie_name": "KABUPATEN INDRAGIRI HILIR"}
+{"id_row": "1404", "id": "14", "regencie_name": "KABUPATEN PELALAWAN"}
+{"id_row": "1405", "id": "14", "regencie_name": "KABUPATEN S I A K"}
+{"id_row": "1406", "id": "14", "regencie_name": "KABUPATEN KAMPAR"}
+{"id_row": "1407", "id": "14", "regencie_name": "KABUPATEN ROKAN HULU"}
+{"id_row": "1408", "id": "14", "regencie_name": "KABUPATEN BENGKALIS"}
+{"id_row": "1409", "id": "14", "regencie_name": "KABUPATEN ROKAN HILIR"}
+{"id_row": "1410", "id": "14", "regencie_name": "KABUPATEN KEPULAUAN MERANTI"}
+{"id_row": "1471", "id": "14", "regencie_name": "KOTA PEKANBARU"}
+{"id_row": "1473", "id": "14", "regencie_name": "KOTA D U M A I"}
+{"id_row": "1501", "id": "15", "regencie_name": "KABUPATEN KERINCI"}
+{"id_row": "1502", "id": "15", "regencie_name": "KABUPATEN MERANGIN"}
+{"id_row": "1503", "id": "15", "regencie_name": "KABUPATEN SAROLANGUN"}
+{"id_row": "1504", "id": "15", "regencie_name": "KABUPATEN BATANG HARI"}
+{"id_row": "1505", "id": "15", "regencie_name": "KABUPATEN MUARO JAMBI"}
+{"id_row": "1506", "id": "15", "regencie_name": "KABUPATEN TANJUNG JABUNG TIMUR"}
+{"id_row": "1507", "id": "15", "regencie_name": "KABUPATEN TANJUNG JABUNG BARAT"}
+{"id_row": "1508", "id": "15", "regencie_name": "KABUPATEN TEBO"}
+{"id_row": "1509", "id": "15", "regencie_name": "KABUPATEN BUNGO"}
+{"id_row": "1571", "id": "15", "regencie_name": "KOTA JAMBI"}
+{"id_row": "1572", "id": "15", "regencie_name": "KOTA SUNGAI PENUH"}
+{"id_row": "1601", "id": "16", "regencie_name": "KABUPATEN OGAN KOMERING ULU"}
+{"id_row": "1602", "id": "16", "regencie_name": "KABUPATEN OGAN KOMERING ILIR"}
+{"id_row": "1603", "id": "16", "regencie_name": "KABUPATEN MUARA ENIM"}
+{"id_row": "1604", "id": "16", "regencie_name": "KABUPATEN LAHAT"}
+{"id_row": "1605", "id": "16", "regencie_name": "KABUPATEN MUSI RAWAS"}
+{"id_row": "1606", "id": "16", "regencie_name": "KABUPATEN MUSI BANYUASIN"}
+{"id_row": "1607", "id": "16", "regencie_name": "KABUPATEN BANYU ASIN"}
+{"id_row": "1608", "id": "16", "regencie_name": "KABUPATEN OGAN KOMERING ULU SELATAN"}
+{"id_row": "1609", "id": "16", "regencie_name": "KABUPATEN OGAN KOMERING ULU TIMUR"}
+{"id_row": "1610", "id": "16", "regencie_name": "KABUPATEN OGAN ILIR"}
+{"id_row": "1611", "id": "16", "regencie_name": "KABUPATEN EMPAT LAWANG"}
+{"id_row": "1612", "id": "16", "regencie_name": "KABUPATEN PENUKAL ABAB LEMATANG ILIR"}
+{"id_row": "1613", "id": "16", "regencie_name": "KABUPATEN MUSI RAWAS UTARA"}
+{"id_row": "1671", "id": "16", "regencie_name": "KOTA PALEMBANG"}
+{"id_row": "1672", "id": "16", "regencie_name": "KOTA PRABUMULIH"}
+{"id_row": "1673", "id": "16", "regencie_name": "KOTA PAGAR ALAM"}
+{"id_row": "1674", "id": "16", "regencie_name": "KOTA LUBUKLINGGAU"}
+{"id_row": "1701", "id": "17", "regencie_name": "KABUPATEN BENGKULU SELATAN"}
+{"id_row": "1702", "id": "17", "regencie_name": "KABUPATEN REJANG LEBONG"}
+{"id_row": "1703", "id": "17", "regencie_name": "KABUPATEN BENGKULU UTARA"}
+{"id_row": "1704", "id": "17", "regencie_name": "KABUPATEN KAUR"}
+{"id_row": "1705", "id": "17", "regencie_name": "KABUPATEN SELUMA"}
+{"id_row": "1706", "id": "17", "regencie_name": "KABUPATEN MUKOMUKO"}
+{"id_row": "1707", "id": "17", "regencie_name": "KABUPATEN LEBONG"}
+{"id_row": "1708", "id": "17", "regencie_name": "KABUPATEN KEPAHIANG"}
+{"id_row": "1709", "id": "17", "regencie_name": "KABUPATEN BENGKULU TENGAH"}
+{"id_row": "1771", "id": "17", "regencie_name": "KOTA BENGKULU"}
+{"id_row": "1801", "id": "18", "regencie_name": "KABUPATEN LAMPUNG BARAT"}
+{"id_row": "1802", "id": "18", "regencie_name": "KABUPATEN TANGGAMUS"}
+{"id_row": "1803", "id": "18", "regencie_name": "KABUPATEN LAMPUNG SELATAN"}
+{"id_row": "1804", "id": "18", "regencie_name": "KABUPATEN LAMPUNG TIMUR"}
+{"id_row": "1805", "id": "18", "regencie_name": "KABUPATEN LAMPUNG TENGAH"}
+{"id_row": "1806", "id": "18", "regencie_name": "KABUPATEN LAMPUNG UTARA"}
+{"id_row": "1807", "id": "18", "regencie_name": "KABUPATEN WAY KANAN"}
+{"id_row": "1808", "id": "18", "regencie_name": "KABUPATEN TULANGBAWANG"}
+{"id_row": "1809", "id": "18", "regencie_name": "KABUPATEN PESAWARAN"}
+{"id_row": "1810", "id": "18", "regencie_name": "KABUPATEN PRINGSEWU"}
+{"id_row": "1811", "id": "18", "regencie_name": "KABUPATEN MESUJI"}
+{"id_row": "1812", "id": "18", "regencie_name": "KABUPATEN TULANG BAWANG BARAT"}
+{"id_row": "1813", "id": "18", "regencie_name": "KABUPATEN PESISIR BARAT"}
+{"id_row": "1871", "id": "18", "regencie_name": "KOTA BANDAR LAMPUNG"}
+{"id_row": "1872", "id": "18", "regencie_name": "KOTA METRO"}
+{"id_row": "1901", "id": "19", "regencie_name": "KABUPATEN BANGKA"}
+{"id_row": "1902", "id": "19", "regencie_name": "KABUPATEN BELITUNG"}
+{"id_row": "1903", "id": "19", "regencie_name": "KABUPATEN BANGKA BARAT"}
+{"id_row": "1904", "id": "19", "regencie_name": "KABUPATEN BANGKA TENGAH"}
+{"id_row": "1905", "id": "19", "regencie_name": "KABUPATEN BANGKA SELATAN"}
+{"id_row": "1906", "id": "19", "regencie_name": "KABUPATEN BELITUNG TIMUR"}
+{"id_row": "1971", "id": "19", "regencie_name": "KOTA PANGKALPINANG"}
+{"id_row": "2101", "id": "21", "regencie_name": "KABUPATEN KARIMUN"}
+{"id_row": "2102", "id": "21", "regencie_name": "KABUPATEN BINTAN"}
+{"id_row": "2103", "id": "21", "regencie_name": "KABUPATEN NATUNA"}
+{"id_row": "2104", "id": "21", "regencie_name": "KABUPATEN LINGGA"}
+{"id_row": "2105", "id": "21", "regencie_name": "KABUPATEN KEPULAUAN ANAMBAS"}
+{"id_row": "2171", "id": "21", "regencie_name": "KOTA B A T A M"}
+{"id_row": "2172", "id": "21", "regencie_name": "KOTA TANJUNG PINANG"}
+{"id_row": "3101", "id": "31", "regencie_name": "KABUPATEN KEPULAUAN SERIBU"}
+{"id_row": "3171", "id": "31", "regencie_name": "KOTA JAKARTA SELATAN"}
+{"id_row": "3172", "id": "31", "regencie_name": "KOTA JAKARTA TIMUR"}
+{"id_row": "3173", "id": "31", "regencie_name": "KOTA JAKARTA PUSAT"}
+{"id_row": "3174", "id": "31", "regencie_name": "KOTA JAKARTA BARAT"}
+{"id_row": "3175", "id": "31", "regencie_name": "KOTA JAKARTA UTARA"}
+{"id_row": "3201", "id": "32", "regencie_name": "KABUPATEN BOGOR"}
+{"id_row": "3202", "id": "32", "regencie_name": "KABUPATEN SUKABUMI"}
+{"id_row": "3203", "id": "32", "regencie_name": "KABUPATEN CIANJUR"}
+{"id_row": "3204", "id": "32", "regencie_name": "KABUPATEN BANDUNG"}
+{"id_row": "3205", "id": "32", "regencie_name": "KABUPATEN GARUT"}
+{"id_row": "3206", "id": "32", "regencie_name": "KABUPATEN TASIKMALAYA"}
+{"id_row": "3207", "id": "32", "regencie_name": "KABUPATEN CIAMIS"}
+{"id_row": "3208", "id": "32", "regencie_name": "KABUPATEN KUNINGAN"}
+{"id_row": "3209", "id": "32", "regencie_name": "KABUPATEN CIREBON"}
+{"id_row": "3210", "id": "32", "regencie_name": "KABUPATEN MAJALENGKA"}
+{"id_row": "3211", "id": "32", "regencie_name": "KABUPATEN SUMEDANG"}
+{"id_row": "3212", "id": "32", "regencie_name": "KABUPATEN INDRAMAYU"}
+{"id_row": "3213", "id": "32", "regencie_name": "KABUPATEN SUBANG"}
+{"id_row": "3214", "id": "32", "regencie_name": "KABUPATEN PURWAKARTA"}
+{"id_row": "3215", "id": "32", "regencie_name": "KABUPATEN KARAWANG"}
+{"id_row": "3216", "id": "32", "regencie_name": "KABUPATEN BEKASI"}
+{"id_row": "3217", "id": "32", "regencie_name": "KABUPATEN BANDUNG BARAT"}
+{"id_row": "3218", "id": "32", "regencie_name": "KABUPATEN PANGANDARAN"}
+{"id_row": "3271", "id": "32", "regencie_name": "KOTA BOGOR"}
+{"id_row": "3272", "id": "32", "regencie_name": "KOTA SUKABUMI"}
+{"id_row": "3273", "id": "32", "regencie_name": "KOTA BANDUNG"}
+{"id_row": "3274", "id": "32", "regencie_name": "KOTA CIREBON"}
+{"id_row": "3275", "id": "32", "regencie_name": "KOTA BEKASI"}
+{"id_row": "3276", "id": "32", "regencie_name": "KOTA DEPOK"}
+{"id_row": "3277", "id": "32", "regencie_name": "KOTA CIMAHI"}
+{"id_row": "3278", "id": "32", "regencie_name": "KOTA TASIKMALAYA"}
+{"id_row": "3279", "id": "32", "regencie_name": "KOTA BANJAR"}
+{"id_row": "3301", "id": "33", "regencie_name": "KABUPATEN CILACAP"}
+{"id_row": "3302", "id": "33", "regencie_name": "KABUPATEN BANYUMAS"}
+{"id_row": "3303", "id": "33", "regencie_name": "KABUPATEN PURBALINGGA"}
+{"id_row": "3304", "id": "33", "regencie_name": "KABUPATEN BANJARNEGARA"}
+{"id_row": "3305", "id": "33", "regencie_name": "KABUPATEN KEBUMEN"}
+{"id_row": "3306", "id": "33", "regencie_name": "KABUPATEN PURWOREJO"}
+{"id_row": "3307", "id": "33", "regencie_name": "KABUPATEN WONOSOBO"}
+{"id_row": "3308", "id": "33", "regencie_name": "KABUPATEN MAGELANG"}
+{"id_row": "3309", "id": "33", "regencie_name": "KABUPATEN BOYOLALI"}
+{"id_row": "3310", "id": "33", "regencie_name": "KABUPATEN KLATEN"}
+{"id_row": "3311", "id": "33", "regencie_name": "KABUPATEN SUKOHARJO"}
+{"id_row": "3312", "id": "33", "regencie_name": "KABUPATEN WONOGIRI"}
+{"id_row": "3313", "id": "33", "regencie_name": "KABUPATEN KARANGANYAR"}
+{"id_row": "3314", "id": "33", "regencie_name": "KABUPATEN SRAGEN"}
+{"id_row": "3315", "id": "33", "regencie_name": "KABUPATEN GROBOGAN"}
+{"id_row": "3316", "id": "33", "regencie_name": "KABUPATEN BLORA"}
+{"id_row": "3317", "id": "33", "regencie_name": "KABUPATEN REMBANG"}
+{"id_row": "3318", "id": "33", "regencie_name": "KABUPATEN PATI"}
+{"id_row": "3319", "id": "33", "regencie_name": "KABUPATEN KUDUS"}
+{"id_row": "3320", "id": "33", "regencie_name": "KABUPATEN JEPARA"}
+{"id_row": "3321", "id": "33", "regencie_name": "KABUPATEN DEMAK"}
+{"id_row": "3322", "id": "33", "regencie_name": "KABUPATEN SEMARANG"}
+{"id_row": "3323", "id": "33", "regencie_name": "KABUPATEN TEMANGGUNG"}
+{"id_row": "3324", "id": "33", "regencie_name": "KABUPATEN KENDAL"}
+{"id_row": "3325", "id": "33", "regencie_name": "KABUPATEN BATANG"}
+{"id_row": "3326", "id": "33", "regencie_name": "KABUPATEN PEKALONGAN"}
+{"id_row": "3327", "id": "33", "regencie_name": "KABUPATEN PEMALANG"}
+{"id_row": "3328", "id": "33", "regencie_name": "KABUPATEN TEGAL"}
+{"id_row": "3329", "id": "33", "regencie_name": "KABUPATEN BREBES"}
+{"id_row": "3371", "id": "33", "regencie_name": "KOTA MAGELANG"}
+{"id_row": "3372", "id": "33", "regencie_name": "KOTA SURAKARTA"}
+{"id_row": "3373", "id": "33", "regencie_name": "KOTA SALATIGA"}
+{"id_row": "3374", "id": "33", "regencie_name": "KOTA SEMARANG"}
+{"id_row": "3375", "id": "33", "regencie_name": "KOTA PEKALONGAN"}
+{"id_row": "3376", "id": "33", "regencie_name": "KOTA TEGAL"}
+{"id_row": "3401", "id": "34", "regencie_name": "KABUPATEN KULON PROGO"}
+{"id_row": "3402", "id": "34", "regencie_name": "KABUPATEN BANTUL"}
+{"id_row": "3403", "id": "34", "regencie_name": "KABUPATEN GUNUNG KIDUL"}
+{"id_row": "3404", "id": "34", "regencie_name": "KABUPATEN SLEMAN"}
+{"id_row": "3471", "id": "34", "regencie_name": "KOTA YOGYAKARTA"}
+{"id_row": "3501", "id": "35", "regencie_name": "KABUPATEN PACITAN"}
+{"id_row": "3502", "id": "35", "regencie_name": "KABUPATEN PONOROGO"}
+{"id_row": "3503", "id": "35", "regencie_name": "KABUPATEN TRENGGALEK"}
+{"id_row": "3504", "id": "35", "regencie_name": "KABUPATEN TULUNGAGUNG"}
+{"id_row": "3505", "id": "35", "regencie_name": "KABUPATEN BLITAR"}
+{"id_row": "3506", "id": "35", "regencie_name": "KABUPATEN KEDIRI"}
+{"id_row": "3507", "id": "35", "regencie_name": "KABUPATEN MALANG"}
+{"id_row": "3508", "id": "35", "regencie_name": "KABUPATEN LUMAJANG"}
+{"id_row": "3509", "id": "35", "regencie_name": "KABUPATEN JEMBER"}
+{"id_row": "3510", "id": "35", "regencie_name": "KABUPATEN BANYUWANGI"}
+{"id_row": "3511", "id": "35", "regencie_name": "KABUPATEN BONDOWOSO"}
+{"id_row": "3512", "id": "35", "regencie_name": "KABUPATEN SITUBONDO"}
+{"id_row": "3513", "id": "35", "regencie_name": "KABUPATEN PROBOLINGGO"}
+{"id_row": "3514", "id": "35", "regencie_name": "KABUPATEN PASURUAN"}
+{"id_row": "3515", "id": "35", "regencie_name": "KABUPATEN SIDOARJO"}
+{"id_row": "3516", "id": "35", "regencie_name": "KABUPATEN MOJOKERTO"}
+{"id_row": "3517", "id": "35", "regencie_name": "KABUPATEN JOMBANG"}
+{"id_row": "3518", "id": "35", "regencie_name": "KABUPATEN NGANJUK"}
+{"id_row": "3519", "id": "35", "regencie_name": "KABUPATEN MADIUN"}
+{"id_row": "3520", "id": "35", "regencie_name": "KABUPATEN MAGETAN"}
+{"id_row": "3521", "id": "35", "regencie_name": "KABUPATEN NGAWI"}
+{"id_row": "3522", "id": "35", "regencie_name": "KABUPATEN BOJONEGORO"}
+{"id_row": "3523", "id": "35", "regencie_name": "KABUPATEN TUBAN"}
+{"id_row": "3524", "id": "35", "regencie_name": "KABUPATEN LAMONGAN"}
+{"id_row": "3525", "id": "35", "regencie_name": "KABUPATEN GRESIK"}
+{"id_row": "3526", "id": "35", "regencie_name": "KABUPATEN BANGKALAN"}
+{"id_row": "3527", "id": "35", "regencie_name": "KABUPATEN SAMPANG"}
+{"id_row": "3528", "id": "35", "regencie_name": "KABUPATEN PAMEKASAN"}
+{"id_row": "3529", "id": "35", "regencie_name": "KABUPATEN SUMENEP"}
+{"id_row": "3571", "id": "35", "regencie_name": "KOTA KEDIRI"}
+{"id_row": "3572", "id": "35", "regencie_name": "KOTA BLITAR"}
+{"id_row": "3573", "id": "35", "regencie_name": "KOTA MALANG"}
+{"id_row": "3574", "id": "35", "regencie_name": "KOTA PROBOLINGGO"}
+{"id_row": "3575", "id": "35", "regencie_name": "KOTA PASURUAN"}
+{"id_row": "3576", "id": "35", "regencie_name": "KOTA MOJOKERTO"}
+{"id_row": "3577", "id": "35", "regencie_name": "KOTA MADIUN"}
+{"id_row": "3578", "id": "35", "regencie_name": "KOTA SURABAYA"}
+{"id_row": "3579", "id": "35", "regencie_name": "KOTA BATU"}
+{"id_row": "3601", "id": "36", "regencie_name": "KABUPATEN PANDEGLANG"}
+{"id_row": "3602", "id": "36", "regencie_name": "KABUPATEN LEBAK"}
+{"id_row": "3603", "id": "36", "regencie_name": "KABUPATEN TANGERANG"}
+{"id_row": "3604", "id": "36", "regencie_name": "KABUPATEN SERANG"}
+{"id_row": "3671", "id": "36", "regencie_name": "KOTA TANGERANG"}
+{"id_row": "3672", "id": "36", "regencie_name": "KOTA CILEGON"}
+{"id_row": "3673", "id": "36", "regencie_name": "KOTA SERANG"}
+{"id_row": "3674", "id": "36", "regencie_name": "KOTA TANGERANG SELATAN"}
+{"id_row": "5101", "id": "51", "regencie_name": "KABUPATEN JEMBRANA"}
+{"id_row": "5102", "id": "51", "regencie_name": "KABUPATEN TABANAN"}
+{"id_row": "5103", "id": "51", "regencie_name": "KABUPATEN BADUNG"}
+{"id_row": "5104", "id": "51", "regencie_name": "KABUPATEN GIANYAR"}
+{"id_row": "5105", "id": "51", "regencie_name": "KABUPATEN KLUNGKUNG"}
+{"id_row": "5106", "id": "51", "regencie_name": "KABUPATEN BANGLI"}
+{"id_row": "5107", "id": "51", "regencie_name": "KABUPATEN KARANGASEM"}
+{"id_row": "5108", "id": "51", "regencie_name": "KABUPATEN BULELENG"}
+{"id_row": "5171", "id": "51", "regencie_name": "KOTA DENPASAR"}
+{"id_row": "5201", "id": "52", "regencie_name": "KABUPATEN LOMBOK BARAT"}
+{"id_row": "5202", "id": "52", "regencie_name": "KABUPATEN LOMBOK TENGAH"}
+{"id_row": "5203", "id": "52", "regencie_name": "KABUPATEN LOMBOK TIMUR"}
+{"id_row": "5204", "id": "52", "regencie_name": "KABUPATEN SUMBAWA"}
+{"id_row": "5205", "id": "52", "regencie_name": "KABUPATEN DOMPU"}
+{"id_row": "5206", "id": "52", "regencie_name": "KABUPATEN BIMA"}
+{"id_row": "5207", "id": "52", "regencie_name": "KABUPATEN SUMBAWA BARAT"}
+{"id_row": "5208", "id": "52", "regencie_name": "KABUPATEN LOMBOK UTARA"}
+{"id_row": "5271", "id": "52", "regencie_name": "KOTA MATARAM"}
+{"id_row": "5272", "id": "52", "regencie_name": "KOTA BIMA"}
+{"id_row": "5301", "id": "53", "regencie_name": "KABUPATEN SUMBA BARAT"}
+{"id_row": "5302", "id": "53", "regencie_name": "KABUPATEN SUMBA TIMUR"}
+{"id_row": "5303", "id": "53", "regencie_name": "KABUPATEN KUPANG"}
+{"id_row": "5304", "id": "53", "regencie_name": "KABUPATEN TIMOR TENGAH SELATAN"}
+{"id_row": "5305", "id": "53", "regencie_name": "KABUPATEN TIMOR TENGAH UTARA"}
+{"id_row": "5306", "id": "53", "regencie_name": "KABUPATEN BELU"}
+{"id_row": "5307", "id": "53", "regencie_name": "KABUPATEN ALOR"}
+{"id_row": "5308", "id": "53", "regencie_name": "KABUPATEN LEMBATA"}
+{"id_row": "5309", "id": "53", "regencie_name": "KABUPATEN FLORES TIMUR"}
+{"id_row": "5310", "id": "53", "regencie_name": "KABUPATEN SIKKA"}
+{"id_row": "5311", "id": "53", "regencie_name": "KABUPATEN ENDE"}
+{"id_row": "5312", "id": "53", "regencie_name": "KABUPATEN NGADA"}
+{"id_row": "5313", "id": "53", "regencie_name": "KABUPATEN MANGGARAI"}
+{"id_row": "5314", "id": "53", "regencie_name": "KABUPATEN ROTE NDAO"}
+{"id_row": "5315", "id": "53", "regencie_name": "KABUPATEN MANGGARAI BARAT"}
+{"id_row": "5316", "id": "53", "regencie_name": "KABUPATEN SUMBA TENGAH"}
+{"id_row": "5317", "id": "53", "regencie_name": "KABUPATEN SUMBA BARAT DAYA"}
+{"id_row": "5318", "id": "53", "regencie_name": "KABUPATEN NAGEKEO"}
+{"id_row": "5319", "id": "53", "regencie_name": "KABUPATEN MANGGARAI TIMUR"}
+{"id_row": "5320", "id": "53", "regencie_name": "KABUPATEN SABU RAIJUA"}
+{"id_row": "5321", "id": "53", "regencie_name": "KABUPATEN MALAKA"}
+{"id_row": "5371", "id": "53", "regencie_name": "KOTA KUPANG"}
+{"id_row": "6101", "id": "61", "regencie_name": "KABUPATEN SAMBAS"}
+{"id_row": "6102", "id": "61", "regencie_name": "KABUPATEN BENGKAYANG"}
+{"id_row": "6103", "id": "61", "regencie_name": "KABUPATEN LANDAK"}
+{"id_row": "6104", "id": "61", "regencie_name": "KABUPATEN MEMPAWAH"}
+{"id_row": "6105", "id": "61", "regencie_name": "KABUPATEN SANGGAU"}
+{"id_row": "6106", "id": "61", "regencie_name": "KABUPATEN KETAPANG"}
+{"id_row": "6107", "id": "61", "regencie_name": "KABUPATEN SINTANG"}
+{"id_row": "6108", "id": "61", "regencie_name": "KABUPATEN KAPUAS HULU"}
+{"id_row": "6109", "id": "61", "regencie_name": "KABUPATEN SEKADAU"}
+{"id_row": "6110", "id": "61", "regencie_name": "KABUPATEN MELAWI"}
+{"id_row": "6111", "id": "61", "regencie_name": "KABUPATEN KAYONG UTARA"}
+{"id_row": "6112", "id": "61", "regencie_name": "KABUPATEN KUBU RAYA"}
+{"id_row": "6171", "id": "61", "regencie_name": "KOTA PONTIANAK"}
+{"id_row": "6172", "id": "61", "regencie_name": "KOTA SINGKAWANG"}
+{"id_row": "6201", "id": "62", "regencie_name": "KABUPATEN KOTAWARINGIN BARAT"}
+{"id_row": "6202", "id": "62", "regencie_name": "KABUPATEN KOTAWARINGIN TIMUR"}
+{"id_row": "6203", "id": "62", "regencie_name": "KABUPATEN KAPUAS"}
+{"id_row": "6204", "id": "62", "regencie_name": "KABUPATEN BARITO SELATAN"}
+{"id_row": "6205", "id": "62", "regencie_name": "KABUPATEN BARITO UTARA"}
+{"id_row": "6206", "id": "62", "regencie_name": "KABUPATEN SUKAMARA"}
+{"id_row": "6207", "id": "62", "regencie_name": "KABUPATEN LAMANDAU"}
+{"id_row": "6208", "id": "62", "regencie_name": "KABUPATEN SERUYAN"}
+{"id_row": "6209", "id": "62", "regencie_name": "KABUPATEN KATINGAN"}
+{"id_row": "6210", "id": "62", "regencie_name": "KABUPATEN PULANG PISAU"}
+{"id_row": "6211", "id": "62", "regencie_name": "KABUPATEN GUNUNG MAS"}
+{"id_row": "6212", "id": "62", "regencie_name": "KABUPATEN BARITO TIMUR"}
+{"id_row": "6213", "id": "62", "regencie_name": "KABUPATEN MURUNG RAYA"}
+{"id_row": "6271", "id": "62", "regencie_name": "KOTA PALANGKA RAYA"}
+{"id_row": "6301", "id": "63", "regencie_name": "KABUPATEN TANAH LAUT"}
+{"id_row": "6302", "id": "63", "regencie_name": "KABUPATEN KOTABARU"}
+{"id_row": "6303", "id": "63", "regencie_name": "KABUPATEN BANJAR"}
+{"id_row": "6304", "id": "63", "regencie_name": "KABUPATEN BARITO KUALA"}
+{"id_row": "6305", "id": "63", "regencie_name": "KABUPATEN TAPIN"}
+{"id_row": "6306", "id": "63", "regencie_name": "KABUPATEN HULU SUNGAI SELATAN"}
+{"id_row": "6307", "id": "63", "regencie_name": "KABUPATEN HULU SUNGAI TENGAH"}
+{"id_row": "6308", "id": "63", "regencie_name": "KABUPATEN HULU SUNGAI UTARA"}
+{"id_row": "6309", "id": "63", "regencie_name": "KABUPATEN TABALONG"}
+{"id_row": "6310", "id": "63", "regencie_name": "KABUPATEN TANAH BUMBU"}
+{"id_row": "6311", "id": "63", "regencie_name": "KABUPATEN BALANGAN"}
+{"id_row": "6371", "id": "63", "regencie_name": "KOTA BANJARMASIN"}
+{"id_row": "6372", "id": "63", "regencie_name": "KOTA BANJAR BARU"}
+{"id_row": "6401", "id": "64", "regencie_name": "KABUPATEN PASER"}
+{"id_row": "6402", "id": "64", "regencie_name": "KABUPATEN KUTAI BARAT"}
+{"id_row": "6403", "id": "64", "regencie_name": "KABUPATEN KUTAI KARTANEGARA"}
+{"id_row": "6404", "id": "64", "regencie_name": "KABUPATEN KUTAI TIMUR"}
+{"id_row": "6405", "id": "64", "regencie_name": "KABUPATEN BERAU"}
+{"id_row": "6409", "id": "64", "regencie_name": "KABUPATEN PENAJAM PASER UTARA"}
+{"id_row": "6411", "id": "64", "regencie_name": "KABUPATEN MAHAKAM HULU"}
+{"id_row": "6471", "id": "64", "regencie_name": "KOTA BALIKPAPAN"}
+{"id_row": "6472", "id": "64", "regencie_name": "KOTA SAMARINDA"}
+{"id_row": "6474", "id": "64", "regencie_name": "KOTA BONTANG"}
+{"id_row": "6501", "id": "65", "regencie_name": "KABUPATEN MALINAU"}
+{"id_row": "6502", "id": "65", "regencie_name": "KABUPATEN BULUNGAN"}
+{"id_row": "6503", "id": "65", "regencie_name": "KABUPATEN TANA TIDUNG"}
+{"id_row": "6504", "id": "65", "regencie_name": "KABUPATEN NUNUKAN"}
+{"id_row": "6571", "id": "65", "regencie_name": "KOTA TARAKAN"}
+{"id_row": "7101", "id": "71", "regencie_name": "KABUPATEN BOLAANG MONGONDOW"}
+{"id_row": "7102", "id": "71", "regencie_name": "KABUPATEN MINAHASA"}
+{"id_row": "7103", "id": "71", "regencie_name": "KABUPATEN KEPULAUAN SANGIHE"}
+{"id_row": "7104", "id": "71", "regencie_name": "KABUPATEN KEPULAUAN TALAUD"}
+{"id_row": "7105", "id": "71", "regencie_name": "KABUPATEN MINAHASA SELATAN"}
+{"id_row": "7106", "id": "71", "regencie_name": "KABUPATEN MINAHASA UTARA"}
+{"id_row": "7107", "id": "71", "regencie_name": "KABUPATEN BOLAANG MONGONDOW UTARA"}
+{"id_row": "7108", "id": "71", "regencie_name": "KABUPATEN SIAU TAGULANDANG BIARO"}
+{"id_row": "7109", "id": "71", "regencie_name": "KABUPATEN MINAHASA TENGGARA"}
+{"id_row": "7110", "id": "71", "regencie_name": "KABUPATEN BOLAANG MONGONDOW SELATAN"}
+{"id_row": "7111", "id": "71", "regencie_name": "KABUPATEN BOLAANG MONGONDOW TIMUR"}
+{"id_row": "7171", "id": "71", "regencie_name": "KOTA MANADO"}
+{"id_row": "7172", "id": "71", "regencie_name": "KOTA BITUNG"}
+{"id_row": "7173", "id": "71", "regencie_name": "KOTA TOMOHON"}
+{"id_row": "7174", "id": "71", "regencie_name": "KOTA KOTAMOBAGU"}
+{"id_row": "7201", "id": "72", "regencie_name": "KABUPATEN BANGGAI KEPULAUAN"}
+{"id_row": "7202", "id": "72", "regencie_name": "KABUPATEN BANGGAI"}
+{"id_row": "7203", "id": "72", "regencie_name": "KABUPATEN MOROWALI"}
+{"id_row": "7204", "id": "72", "regencie_name": "KABUPATEN POSO"}
+{"id_row": "7205", "id": "72", "regencie_name": "KABUPATEN DONGGALA"}
+{"id_row": "7206", "id": "72", "regencie_name": "KABUPATEN TOLI-TOLI"}
+{"id_row": "7207", "id": "72", "regencie_name": "KABUPATEN BUOL"}
+{"id_row": "7208", "id": "72", "regencie_name": "KABUPATEN PARIGI MOUTONG"}
+{"id_row": "7209", "id": "72", "regencie_name": "KABUPATEN TOJO UNA-UNA"}
+{"id_row": "7210", "id": "72", "regencie_name": "KABUPATEN SIGI"}
+{"id_row": "7211", "id": "72", "regencie_name": "KABUPATEN BANGGAI LAUT"}
+{"id_row": "7212", "id": "72", "regencie_name": "KABUPATEN MOROWALI UTARA"}
+{"id_row": "7271", "id": "72", "regencie_name": "KOTA PALU"}
+{"id_row": "7301", "id": "73", "regencie_name": "KABUPATEN KEPULAUAN SELAYAR"}
+{"id_row": "7302", "id": "73", "regencie_name": "KABUPATEN BULUKUMBA"}
+{"id_row": "7303", "id": "73", "regencie_name": "KABUPATEN BANTAENG"}
+{"id_row": "7304", "id": "73", "regencie_name": "KABUPATEN JENEPONTO"}
+{"id_row": "7305", "id": "73", "regencie_name": "KABUPATEN TAKALAR"}
+{"id_row": "7306", "id": "73", "regencie_name": "KABUPATEN GOWA"}
+{"id_row": "7307", "id": "73", "regencie_name": "KABUPATEN SINJAI"}
+{"id_row": "7308", "id": "73", "regencie_name": "KABUPATEN MAROS"}
+{"id_row": "7309", "id": "73", "regencie_name": "KABUPATEN PANGKAJENE DAN KEPULAUAN"}
+{"id_row": "7310", "id": "73", "regencie_name": "KABUPATEN BARRU"}
+{"id_row": "7311", "id": "73", "regencie_name": "KABUPATEN BONE"}
+{"id_row": "7312", "id": "73", "regencie_name": "KABUPATEN SOPPENG"}
+{"id_row": "7313", "id": "73", "regencie_name": "KABUPATEN WAJO"}
+{"id_row": "7314", "id": "73", "regencie_name": "KABUPATEN SIDENRENG RAPPANG"}
+{"id_row": "7315", "id": "73", "regencie_name": "KABUPATEN PINRANG"}
+{"id_row": "7316", "id": "73", "regencie_name": "KABUPATEN ENREKANG"}
+{"id_row": "7317", "id": "73", "regencie_name": "KABUPATEN LUWU"}
+{"id_row": "7318", "id": "73", "regencie_name": "KABUPATEN TANA TORAJA"}
+{"id_row": "7322", "id": "73", "regencie_name": "KABUPATEN LUWU UTARA"}
+{"id_row": "7325", "id": "73", "regencie_name": "KABUPATEN LUWU TIMUR"}
+{"id_row": "7326", "id": "73", "regencie_name": "KABUPATEN TORAJA UTARA"}
+{"id_row": "7371", "id": "73", "regencie_name": "KOTA MAKASSAR"}
+{"id_row": "7372", "id": "73", "regencie_name": "KOTA PAREPARE"}
+{"id_row": "7373", "id": "73", "regencie_name": "KOTA PALOPO"}
+{"id_row": "7401", "id": "74", "regencie_name": "KABUPATEN BUTON"}
+{"id_row": "7402", "id": "74", "regencie_name": "KABUPATEN MUNA"}
+{"id_row": "7403", "id": "74", "regencie_name": "KABUPATEN KONAWE"}
+{"id_row": "7404", "id": "74", "regencie_name": "KABUPATEN KOLAKA"}
+{"id_row": "7405", "id": "74", "regencie_name": "KABUPATEN KONAWE SELATAN"}
+{"id_row": "7406", "id": "74", "regencie_name": "KABUPATEN BOMBANA"}
+{"id_row": "7407", "id": "74", "regencie_name": "KABUPATEN WAKATOBI"}
+{"id_row": "7408", "id": "74", "regencie_name": "KABUPATEN KOLAKA UTARA"}
+{"id_row": "7409", "id": "74", "regencie_name": "KABUPATEN BUTON UTARA"}
+{"id_row": "7410", "id": "74", "regencie_name": "KABUPATEN KONAWE UTARA"}
+{"id_row": "7411", "id": "74", "regencie_name": "KABUPATEN KOLAKA TIMUR"}
+{"id_row": "7412", "id": "74", "regencie_name": "KABUPATEN KONAWE KEPULAUAN"}
+{"id_row": "7413", "id": "74", "regencie_name": "KABUPATEN MUNA BARAT"}
+{"id_row": "7414", "id": "74", "regencie_name": "KABUPATEN BUTON TENGAH"}
+{"id_row": "7415", "id": "74", "regencie_name": "KABUPATEN BUTON SELATAN"}
+{"id_row": "7471", "id": "74", "regencie_name": "KOTA KENDARI"}
+{"id_row": "7472", "id": "74", "regencie_name": "KOTA BAUBAU"}
+{"id_row": "7501", "id": "75", "regencie_name": "KABUPATEN BOALEMO"}
+{"id_row": "7502", "id": "75", "regencie_name": "KABUPATEN GORONTALO"}
+{"id_row": "7503", "id": "75", "regencie_name": "KABUPATEN POHUWATO"}
+{"id_row": "7504", "id": "75", "regencie_name": "KABUPATEN BONE BOLANGO"}
+{"id_row": "7505", "id": "75", "regencie_name": "KABUPATEN GORONTALO UTARA"}
+{"id_row": "7571", "id": "75", "regencie_name": "KOTA GORONTALO"}
+{"id_row": "7601", "id": "76", "regencie_name": "KABUPATEN MAJENE"}
+{"id_row": "7602", "id": "76", "regencie_name": "KABUPATEN POLEWALI MANDAR"}
+{"id_row": "7603", "id": "76", "regencie_name": "KABUPATEN MAMASA"}
+{"id_row": "7604", "id": "76", "regencie_name": "KABUPATEN MAMUJU"}
+{"id_row": "7605", "id": "76", "regencie_name": "KABUPATEN PASANGKAYU"}
+{"id_row": "7606", "id": "76", "regencie_name": "KABUPATEN MAMUJU TENGAH"}
+{"id_row": "8101", "id": "81", "regencie_name": "KABUPATEN KEPULAUAN TANIMBAR"}
+{"id_row": "8102", "id": "81", "regencie_name": "KABUPATEN MALUKU TENGGARA"}
+{"id_row": "8103", "id": "81", "regencie_name": "KABUPATEN MALUKU TENGAH"}
+{"id_row": "8104", "id": "81", "regencie_name": "KABUPATEN BURU"}
+{"id_row": "8105", "id": "81", "regencie_name": "KABUPATEN KEPULAUAN ARU"}
+{"id_row": "8106", "id": "81", "regencie_name": "KABUPATEN SERAM BAGIAN BARAT"}
+{"id_row": "8107", "id": "81", "regencie_name": "KABUPATEN SERAM BAGIAN TIMUR"}
+{"id_row": "8108", "id": "81", "regencie_name": "KABUPATEN MALUKU BARAT DAYA"}
+{"id_row": "8109", "id": "81", "regencie_name": "KABUPATEN BURU SELATAN"}
+{"id_row": "8171", "id": "81", "regencie_name": "KOTA AMBON"}
+{"id_row": "8172", "id": "81", "regencie_name": "KOTA TUAL"}
+{"id_row": "8201", "id": "82", "regencie_name": "KABUPATEN HALMAHERA BARAT"}
+{"id_row": "8202", "id": "82", "regencie_name": "KABUPATEN HALMAHERA TENGAH"}
+{"id_row": "8203", "id": "82", "regencie_name": "KABUPATEN KEPULAUAN SULA"}
+{"id_row": "8204", "id": "82", "regencie_name": "KABUPATEN HALMAHERA SELATAN"}
+{"id_row": "8205", "id": "82", "regencie_name": "KABUPATEN HALMAHERA UTARA"}
+{"id_row": "8206", "id": "82", "regencie_name": "KABUPATEN HALMAHERA TIMUR"}
+{"id_row": "8207", "id": "82", "regencie_name": "KABUPATEN PULAU MOROTAI"}
+{"id_row": "8208", "id": "82", "regencie_name": "KABUPATEN PULAU TALIABU"}
+{"id_row": "8271", "id": "82", "regencie_name": "KOTA TERNATE"}
+{"id_row": "8272", "id": "82", "regencie_name": "KOTA TIDORE KEPULAUAN"}
+{"id_row": "9101", "id": "91", "regencie_name": "KABUPATEN FAKFAK"}
+{"id_row": "9102", "id": "91", "regencie_name": "KABUPATEN KAIMANA"}
+{"id_row": "9103", "id": "91", "regencie_name": "KABUPATEN TELUK WONDAMA"}
+{"id_row": "9104", "id": "91", "regencie_name": "KABUPATEN TELUK BINTUNI"}
+{"id_row": "9105", "id": "91", "regencie_name": "KABUPATEN MANOKWARI"}
+{"id_row": "9106", "id": "91", "regencie_name": "KABUPATEN SORONG SELATAN"}
+{"id_row": "9107", "id": "91", "regencie_name": "KABUPATEN SORONG"}
+{"id_row": "9108", "id": "91", "regencie_name": "KABUPATEN RAJA AMPAT"}
+{"id_row": "9109", "id": "91", "regencie_name": "KABUPATEN TAMBRAUW"}
+{"id_row": "9110", "id": "91", "regencie_name": "KABUPATEN MAYBRAT"}
+{"id_row": "9111", "id": "91", "regencie_name": "KABUPATEN MANOKWARI SELATAN"}
+{"id_row": "9112", "id": "91", "regencie_name": "KABUPATEN PEGUNUNGAN ARFAK"}
+{"id_row": "9171", "id": "91", "regencie_name": "KOTA SORONG"}
+{"id_row": "9401", "id": "94", "regencie_name": "KABUPATEN MERAUKE"}
+{"id_row": "9402", "id": "94", "regencie_name": "KABUPATEN JAYAWIJAYA"}
+{"id_row": "9403", "id": "94", "regencie_name": "KABUPATEN JAYAPURA"}
+{"id_row": "9404", "id": "94", "regencie_name": "KABUPATEN NABIRE"}
+{"id_row": "9408", "id": "94", "regencie_name": "KABUPATEN KEPULAUAN YAPEN"}
+{"id_row": "9409", "id": "94", "regencie_name": "KABUPATEN BIAK NUMFOR"}
+{"id_row": "9410", "id": "94", "regencie_name": "KABUPATEN PANIAI"}
+{"id_row": "9411", "id": "94", "regencie_name": "KABUPATEN PUNCAK JAYA"}
+{"id_row": "9412", "id": "94", "regencie_name": "KABUPATEN MIMIKA"}
+{"id_row": "9413", "id": "94", "regencie_name": "KABUPATEN BOVEN DIGOEL"}
+{"id_row": "9414", "id": "94", "regencie_name": "KABUPATEN MAPPI"}
+{"id_row": "9415", "id": "94", "regencie_name": "KABUPATEN ASMAT"}
+{"id_row": "9416", "id": "94", "regencie_name": "KABUPATEN YAHUKIMO"}
+{"id_row": "9417", "id": "94", "regencie_name": "KABUPATEN PEGUNUNGAN BINTANG"}
+{"id_row": "9418", "id": "94", "regencie_name": "KABUPATEN TOLIKARA"}
+{"id_row": "9419", "id": "94", "regencie_name": "KABUPATEN SARMI"}
+{"id_row": "9420", "id": "94", "regencie_name": "KABUPATEN KEEROM"}
+{"id_row": "9426", "id": "94", "regencie_name": "KABUPATEN WAROPEN"}
+{"id_row": "9427", "id": "94", "regencie_name": "KABUPATEN SUPIORI"}
+{"id_row": "9428", "id": "94", "regencie_name": "KABUPATEN MAMBERAMO RAYA"}
+{"id_row": "9429", "id": "94", "regencie_name": "KABUPATEN NDUGA"}
+{"id_row": "9430", "id": "94", "regencie_name": "KABUPATEN LANNY JAYA"}
+{"id_row": "9431", "id": "94", "regencie_name": "KABUPATEN MAMBERAMO TENGAH"}
+{"id_row": "9432", "id": "94", "regencie_name": "KABUPATEN YALIMO"}
+{"id_row": "9433", "id": "94", "regencie_name": "KABUPATEN PUNCAK"}
+{"id_row": "9434", "id": "94", "regencie_name": "KABUPATEN DOGIYAI"}
+{"id_row": "9435", "id": "94", "regencie_name": "KABUPATEN INTAN JAYA"}
+{"id_row": "9436", "id": "94", "regencie_name": "KABUPATEN DEIYAI"}
+{"id_row": "9471", "id": "94", "regencie_name": "KOTA JAYAPURA"}
