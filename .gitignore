@@ -1,4 +1,5 @@
 hell.ipynb
 env
+*.swp
 .ipynb_checkpoints
 data/.ipynb_checkpoints
