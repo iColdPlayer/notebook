@@ -18,5 +18,5 @@ all_positions = results.find_all('section', class_='card-content')
 print(results.prettify())
 
 for available_positions in all_positions:
-	print(jobs_elements, end='\n' *2)
+	print(all_positions, end='\n' *2)
 
