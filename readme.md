@@ -6,13 +6,14 @@
 Simple scripts that makes my work easier.
 
 
-- [`MAC Address Changer`](/source/mac_address_changer.ipynb)
-- [`PDF Maker`](/source/pdf_maker.ipynb)
-- [`PDF Encrypt`](/source/pdf_encrypt.ipynb)
-- [`Site Monitoring`](/source/site_health.ipynb)
-- [`XML to JSON`](/source/xml_json.ipynb)
-- [`JSON to XML`](/source/json_xml.ipynb)
-- [File Transfer `Sender`](/source/sender.ipynb)
-- [File Reciever `Reciever`](/source/reciever.ipynb) 
+- [`MAC Address Changer`](/jupyter/mac_address_changer.ipynb)
+- [`PDF Maker`](/jupyter/pdf_maker.ipynb)
+- [`PDF Encrypt`](/jupyter/pdf_encrypt.ipynb)
+- [`Site Monitoring`](/jupyter/site_health.ipynb)
+- [`XML to JSON`](/jupyter/xml_json.ipynb)
+- [`JSON to XML`](/jupyter/json_xml.ipynb)
+- [File Transfer `Sender`](/jupyter/sender.ipynb)
+- [File Reciever `Reciever`](/jupyter/reciever.ipynb) 
 - [`CSV to XLSX`](/source/csv_xlsx.py) 
-- [`Ecryption`](/source/encryption.py)
+- [`Ecryption`](/scripts/encryption.py)
+- [`Scraping`](/scripts/scrap.py)
