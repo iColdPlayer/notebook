@@ -17,6 +17,21 @@ all_positions = results.find_all('section', class_='card-content')
 
 print(results.prettify())
 
-for available_positions in all_positions:
+for available_position in all_positions:
 	print(all_positions, end='\n' *2)
 
+for available_position in all_positions:
+	title = available_position.find('h2', class_='title')
+	company = available_position.find('div', class_='company')
+	location = available_position.find('div', class_='location')
+	#print(title, company, location, ())
+	if None in (title, company, location):
+		continue
+	print(title.text.strip())
+	print(company.text.strip())
+	print(location.text.strip())
+	print()
+
+# python_jobs = results.find_all('h2', string='Python Developer')
+python_dev = results.find_all('h2', string=lambda text: 'python' in text.lower())
+print(len(python_dev))
